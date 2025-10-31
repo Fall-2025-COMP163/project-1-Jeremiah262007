@@ -31,7 +31,10 @@ This design ensures each class feels unique and scales fairly across levels.
 ## Bonus Creative Features  
 **Note:** All bonus feature code is included under the commit titled  
 **"Add bonus creative features code"**  
-*(commit details to be added later).*
+(**Proper code with all test codes passed can be found in the history under the commit titled commit m- "Add all test cases passed code")
+Added new character classes such as "Prisoner", "Devil", and "Angel"
+Added new stats for the characters, such as "Dexterity" and "Stealth"
+Added a new function called def starting_equipment(character_class), which designates certain weapons and abilities based on the character class, which synergizes with the rest of the code.
 
 ---
 
